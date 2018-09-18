@@ -180,7 +180,7 @@ A sample application is inlcuded that demonstrates how to connect to the printer
 
 ## Contributors
 
-StarPrinting was created by [Matt Newberry](https://github.com/MattNewberry) and [Will Loderhose](https://github.com/Will-Loderhose).
+StarPrinting was created by [Matt Newberry](https://github.com/MattNewberry) and [Will Loderhose](https://github.com/wloderhose).
 
 ## License
 
